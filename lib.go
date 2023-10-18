@@ -1,3 +1,3 @@
-package gopublicpackage
+package public
 
 const AwesomeConst = iota
