@@ -1,3 +1,3 @@
-module github.com/akiakaba-sandbox/go-public-package
+module github.com/akiakaba-sandbox/go-public
 
 go 1.21
